@@ -14,7 +14,7 @@
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohanrajg/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mohanrajgtmt)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohanraj1232)  
 📩 **Email:** g.mohanrajgtmt@gmail.com
 
 ---
@@ -25,11 +25,11 @@
 ---
 
 📊 **GitHub Stats:**  
-![Mohanraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanrajgtmt&show_icons=true&theme=radical)  
+![Mohanraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanrajgtmt&layout=compact&theme=radical)
 
 🚀 **LeetCode & GFG Progress:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohanrajgtmt?theme=dark&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohanraj1232?theme=dark&ext=heatmap)  
 
 ---
 
