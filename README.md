@@ -1,52 +1,57 @@
-
-<h1 align="center">
-  <font size=""><strong>Hi, I'm Mohanraj G</strong></font>
-</h1>
+<h1 align="center">👋 Hi, I'm <strong>Mohanraj G</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00A6FF&center=true&vCenter=true&width=720&lines=Flutter+Developer+|+Android+Developer;Always+Learning+New+Tech;Aspiring+developer+building+clean+and+efficient+apps" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&color=00A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+|+Android+Developer;Always+Learning+New+Tech;Building+Clean+%26+Efficient+Apps" />
 </p>
 
+---
 
-## 🛠️ Technologies I Know
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge"/>
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohanraj1232&theme=radical" />
+  <img src="https://leetcard.jacoblin.cool/mohanraj-g?theme=dark&font=Noto%20Sans&border=0" />
 </p>
 
+---
 
-
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:g.mohanrajgtmt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-g.mohanrajgtmt%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-
   <a href="https://www.linkedin.com/in/mohanrajg07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  
   <a href="https://your-portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?logo=google-chrome&logoColor=white&style=for-the-badge" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?logo=google-chrome&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
+---
 
+## ⭐ Fun Fact  
+<p align="center">I don’t stop coding until it works 💙🔥</p>
