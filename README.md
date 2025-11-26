@@ -24,7 +24,10 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=radical&hide_border=true" alt="streak-stats" />
+  <!-- Alternative streak-host if the herokuapp one is down:
+       <img height="165" src="https://streak-stats.demolab.com/?user=Mohanraj1232&theme=radical&hide_border=true" alt="streak-stats" />
+  -->
 </p>
 
 ---
