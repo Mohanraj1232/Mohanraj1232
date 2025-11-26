@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/mohanrajg07/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://your-portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?logo=google-chrome&logoColor=white&style=for-the-badge"/>
-  </a>
 </p>
 
 ---
