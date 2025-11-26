@@ -1,47 +1,52 @@
-### Hi there, I'm Mohanraj G! 👋
 
-🚀 **Aspiring Software Engineer | Web & App Developer | Competitive Programmer**
+<h1 align="center">
+  <font size=""><strong>Hi, I'm Mohanraj G</strong></font>
+</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00A6FF&center=true&vCenter=true&width=720&lines=Flutter+Developer+|+Android+Developer;Always+Learning+New+Tech;Aspiring+developer+building+clean+and+efficient+apps" alt="typing animation" />
+</p>
 
-🌟 **About Me:**
-- 🎓 Pursuing **Computer Science & Engineering**
-- 💡 Co-Founder of **TechBridge Innovations Pvt Ltd**
-- 🏆 **1st Place Winner** at multiple **National-Level Coding Contests**
-- 🔥 Passionate about **Java, Web Development, Python, and DSA**
-- 💪 Solved **LeetCode 50 Days Streak (Top 6.9%)** | **GFG 160 Challenge**
-- 🎯 Building innovative projects & exploring new tech!
 
-📫 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohanrajg/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohanraj1232)  
-📩 **Email:** g.mohanrajgtmt@gmail.com
+## 🛠️ Technologies I Know
 
----
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge"/>
+</p>
 
-🛠 **Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
----
 
-📊 **GitHub Stats:**  
-![Mohanraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanrajgtmt&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
-🚀 **LeetCode & GFG Progress:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohanraj1232?theme=dark&ext=heatmap)  
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohanraj1232&show_icons=true&theme=radical" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohanraj1232&theme=radical" />
+</p>
 
-🔥 **Recent Projects:**  
-- ✅ **Course Offering Platform** (SQL, Next.js, Vercel)  
-- 📧 **Gmail-Style Email Sender** (React, Firebase)  
-- 📱 **Android App with Firebase Login** (Kotlin, Firebase)
 
----
 
-🔗 **Check out my Repositories & Star them!** ⭐
+## 🌐 Connect with me
 
-🎯 **Always learning, always growing!** 🚀
+<p align="center">
+  <a href="mailto:g.mohanrajgtmt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-g.mohanrajgtmt%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email"/>
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohanrajgtmt&color=brightgreen)
+  <a href="https://www.linkedin.com/in/mohanrajg07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/>
+  </a>
+  
+  <a href="https://your-portfolio.example.com">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?logo=google-chrome&logoColor=white&style=for-the-badge" alt="portfolio"/>
+  </a>
+</p>
+
+
