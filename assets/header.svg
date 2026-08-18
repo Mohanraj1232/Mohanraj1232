@@ -1,0 +1,58 @@
+<svg viewBox="0 0 840 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shimmerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00A6FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00A6FF"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .title { fill: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 36px; font-weight: 700; }
+      .subtitle { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 18px; font-weight: 400; }
+      .pattern { fill: none; stroke-width: 1; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #ffffff; }
+        .title { fill: #1f2328; }
+        .subtitle { fill: #656d76; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="840" height="200"/>
+
+  <!-- Geometric pattern: intersecting arcs and circles -->
+  <circle class="pattern" cx="680" cy="40" r="80" stroke="#00A6FF" opacity="0.1"/>
+  <circle class="pattern" cx="750" cy="120" r="60" stroke="#7C3AED" opacity="0.08"/>
+  <circle class="pattern" cx="600" cy="160" r="100" stroke="#00A6FF" opacity="0.06"/>
+  <circle class="pattern" cx="780" cy="180" r="40" stroke="#7C3AED" opacity="0.1"/>
+  <circle class="pattern" cx="500" cy="20" r="70" stroke="#00A6FF" opacity="0.07"/>
+  <circle class="pattern" cx="720" cy="-10" r="90" stroke="#7C3AED" opacity="0.06"/>
+  <path class="pattern" d="M 550 200 A 120 120 0 0 1 670 80" stroke="#00A6FF" opacity="0.08"/>
+  <path class="pattern" d="M 700 0 A 150 150 0 0 1 840 130" stroke="#7C3AED" opacity="0.07"/>
+  <path class="pattern" d="M 450 180 A 200 200 0 0 1 650 0" stroke="#00A6FF" opacity="0.05"/>
+  <path class="pattern" d="M 620 200 A 80 80 0 0 1 780 160" stroke="#7C3AED" opacity="0.09"/>
+
+  <!-- Text content -->
+  <text class="title" x="60" y="90">Mohanraj G</text>
+  <text class="subtitle" x="60" y="130">Flutter &amp; Android Developer</text>
+
+  <!-- Gradient line at bottom with shimmer animation -->
+  <rect y="196" width="840" height="4" fill="url(#shimmerGradient)">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="-840,0;840,0"
+      dur="8s"
+      repeatCount="indefinite"/>
+  </rect>
+  <!-- Second copy for seamless shimmer -->
+  <rect y="196" width="840" height="4" fill="url(#shimmerGradient)">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0,0;1680,0"
+      dur="8s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>

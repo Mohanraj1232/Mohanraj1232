@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <style>
+    .icon { fill: #e6edf3; }
+    @media (prefers-color-scheme: light) {
+      .icon { fill: #1f2328; }
+    }
+  </style>
+  <path class="icon" d="M6 10h28a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2zm1.4 2L20 21l12.6-9H7.4zM6 13.5V28h28V13.5L21.1 23.2a2 2 0 0 1-2.2 0L6 13.5z"/>
+</svg>

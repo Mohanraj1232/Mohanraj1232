@@ -1,0 +1,50 @@
+<svg viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .card-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .card-title { fill: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 700; }
+      .icon-label { font-size: 8px; fill: #e6edf3; font-family: -apple-system, sans-serif; text-anchor: middle; }
+      @media (prefers-color-scheme: light) {
+        .card-bg { fill: #f6f8fa; stroke: #d0d7de; }
+        .card-title { fill: #1f2328; }
+        .icon-label { fill: #1f2328; }
+      }
+    </style>
+  </defs>
+  <rect class="card-bg" x="0.5" y="0.5" width="399" height="119" rx="12"/>
+  <text class="card-title" x="20" y="30">DevOps &amp; Cloud</text>
+  <!-- Docker -->
+  <g transform="translate(55, 50)">
+    <path d="M0 12C0 12 2 8 8 8H10V6H12V8H14V6H16V8H20C22 8 24 10 24 12C26 12 28 14 28 16C28 20 26 22 22 22H6C2 22 0 18 0 14Z" fill="#2496ED"/>
+    <rect x="4" y="10" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <rect x="8" y="10" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <rect x="12" y="10" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <rect x="16" y="10" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <rect x="8" y="14" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <rect x="12" y="14" width="3" height="3" rx="0.5" fill="#fff" opacity="0.9"/>
+    <text x="14" y="34" class="icon-label">Docker</text>
+  </g>
+  <!-- Terraform -->
+  <g transform="translate(145, 50)">
+    <path d="M10 0L18 4.5V13.5L10 9Z" fill="#7B42BC"/>
+    <path d="M19 5L27 9.5V18.5L19 14Z" fill="#7B42BC" opacity="0.7"/>
+    <path d="M1 5L9 9.5V18.5L1 14Z" fill="#7B42BC" opacity="0.5"/>
+    <path d="M10 19L18 14.5V23.5L10 28Z" fill="#7B42BC" opacity="0.85"/>
+    <text x="14" y="38" class="icon-label">Terraform</text>
+  </g>
+  <!-- Jenkins -->
+  <g transform="translate(235, 50)">
+    <circle cx="14" cy="12" r="11" fill="#D33833"/>
+    <circle cx="14" cy="10" r="7" fill="#F0D6B7"/>
+    <circle cx="11" cy="9" r="1.5" fill="#333"/>
+    <circle cx="17" cy="9" r="1.5" fill="#333"/>
+    <path d="M10 13C10 13 12 15 14 15C16 15 18 13 18 13" stroke="#333" stroke-width="1" fill="none" stroke-linecap="round"/>
+    <path d="M8 3C8 3 10 1 14 1C18 1 20 3 20 3" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="14" y="34" class="icon-label">Jenkins</text>
+  </g>
+  <!-- Git -->
+  <g transform="translate(325, 50)">
+    <path d="M27 12.5L15.5 1C15 0.5 14.2 0.5 13.7 1L11 3.7L14 6.7C14.6 6.5 15.3 6.6 15.8 7.1C16.3 7.6 16.4 8.3 16.2 8.9L19 11.7C19.6 11.5 20.4 11.6 20.9 12.1C21.6 12.8 21.6 13.9 20.9 14.6C20.2 15.3 19.1 15.3 18.4 14.6C17.8 14 17.7 13.1 18.1 12.4L15.5 9.8V17.1C15.7 17.2 15.9 17.4 16.1 17.6C16.8 18.3 16.8 19.4 16.1 20.1C15.4 20.8 14.3 20.8 13.6 20.1C12.9 19.4 12.9 18.3 13.6 17.6C13.8 17.4 14.1 17.2 14.3 17.1V9.7C14.1 9.6 13.8 9.4 13.6 9.2C13 8.6 12.9 7.7 13.3 7L10.4 4.1L1 13.5C0.5 14 0.5 14.8 1 15.3L12.5 26.8C13 27.3 13.8 27.3 14.3 26.8L27 14.3C27.5 13.8 27.5 13 27 12.5Z" fill="#F05032"/>
+    <text x="14" y="38" class="icon-label">Git</text>
+  </g>
+</svg>

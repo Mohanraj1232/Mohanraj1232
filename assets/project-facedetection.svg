@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160">
+  <defs>
+    <linearGradient id="accent-fd" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #161b22; }
+      .card-border { stroke: #30363d; fill: none; }
+      .card-title { fill: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 700; }
+      .card-desc { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 13px; }
+      .pill-bg { fill: #21262d; }
+      .pill-text { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 11px; }
+      .icon-color { fill: none; stroke: #8b949e; stroke-width: 1.5; }
+      .icon-dot { fill: #8b949e; }
+      .arrow { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 16px; }
+      @media (prefers-color-scheme: light) {
+        .card-bg { fill: #f6f8fa; }
+        .card-border { stroke: #d0d7de; }
+        .card-title { fill: #1f2328; }
+        .card-desc { fill: #656d76; }
+        .pill-bg { fill: #e8ebef; }
+        .pill-text { fill: #656d76; }
+        .icon-color { stroke: #656d76; }
+        .icon-dot { fill: #656d76; }
+        .arrow { fill: #656d76; }
+      }
+    </style>
+  </defs>
+  <rect class="card-bg" x="1" y="1" width="398" height="158" rx="12"/>
+  <rect class="card-border" x="1" y="1" width="398" height="158" rx="12"/>
+  <rect x="1" y="20" width="3" height="120" fill="url(#accent-fd)" rx="1.5"/>
+  <!-- Face icon (circle with eyes) -->
+  <circle class="icon-color" cx="358" cy="34" r="12"/>
+  <circle class="icon-dot" cx="353" cy="32" r="2"/>
+  <circle class="icon-dot" cx="363" cy="32" r="2"/>
+  <path class="icon-color" d="M353 38 q5 4 10 0"/>
+  <text class="card-title" x="24" y="45">NPN Face Detection</text>
+  <text class="card-desc" x="24" y="72">Machine learning face detection system</text>
+  <!-- Tech pills -->
+  <rect class="pill-bg" x="24" y="95" width="56" height="22" rx="11"/>
+  <text class="pill-text" x="34" y="110">Python</text>
+  <rect class="pill-bg" x="88" y="95" width="34" height="22" rx="11"/>
+  <text class="pill-text" x="97" y="110">ML</text>
+  <rect class="pill-bg" x="130" y="95" width="56" height="22" rx="11"/>
+  <text class="pill-text" x="139" y="110">OpenCV</text>
+  <text class="arrow" x="370" y="140">&#x2192;</text>
+</svg>

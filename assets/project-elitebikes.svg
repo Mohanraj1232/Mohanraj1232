@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160">
+  <defs>
+    <linearGradient id="accent-eb" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00A6FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #161b22; }
+      .card-border { stroke: #30363d; fill: none; }
+      .card-title { fill: #e6edf3; font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 700; }
+      .card-desc { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 13px; }
+      .pill-bg { fill: #21262d; }
+      .pill-text { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 11px; }
+      .icon-color { fill: none; stroke: #8b949e; stroke-width: 1.5; }
+      .arrow { fill: #8b949e; font-family: 'Segoe UI', sans-serif; font-size: 16px; }
+      @media (prefers-color-scheme: light) {
+        .card-bg { fill: #f6f8fa; }
+        .card-border { stroke: #d0d7de; }
+        .card-title { fill: #1f2328; }
+        .card-desc { fill: #656d76; }
+        .pill-bg { fill: #e8ebef; }
+        .pill-text { fill: #656d76; }
+        .icon-color { stroke: #656d76; }
+        .arrow { fill: #656d76; }
+      }
+    </style>
+  </defs>
+  <rect class="card-bg" x="1" y="1" width="398" height="158" rx="12"/>
+  <rect class="card-border" x="1" y="1" width="398" height="158" rx="12"/>
+  <rect x="1" y="20" width="3" height="120" fill="url(#accent-eb)" rx="1.5"/>
+  <!-- Bike icon (two wheels + frame) -->
+  <circle class="icon-color" cx="345" cy="35" r="8"/>
+  <circle class="icon-color" cx="370" cy="35" r="8"/>
+  <path class="icon-color" d="M345 35 l8-12 l9 0 l8 12 M353 23 l4 12"/>
+  <text class="card-title" x="24" y="45">Elite-Bikes</text>
+  <text class="card-desc" x="24" y="72">Android application for bike services</text>
+  <!-- Tech pills -->
+  <rect class="pill-bg" x="24" y="95" width="44" height="22" rx="11"/>
+  <text class="pill-text" x="34" y="110">Java</text>
+  <rect class="pill-bg" x="76" y="95" width="52" height="22" rx="11"/>
+  <text class="pill-text" x="86" y="110">Kotlin</text>
+  <rect class="pill-bg" x="136" y="95" width="62" height="22" rx="11"/>
+  <text class="pill-text" x="145" y="110">Android</text>
+  <text class="arrow" x="370" y="140">&#x2192;</text>
+</svg>

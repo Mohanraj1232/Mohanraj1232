@@ -1,0 +1,50 @@
+<svg viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kotlin-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#E44857"/>
+    </linearGradient>
+    <style>
+      .card-bg { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .card-title { fill: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 700; }
+      @media (prefers-color-scheme: light) {
+        .card-bg { fill: #f6f8fa; stroke: #d0d7de; }
+        .card-title { fill: #1f2328; }
+      }
+    </style>
+  </defs>
+  <rect class="card-bg" x="0.5" y="0.5" width="399" height="119" rx="12"/>
+  <text class="card-title" x="20" y="30">Mobile Development</text>
+  <!-- Flutter -->
+  <g transform="translate(40, 50)">
+    <path d="M14 0L28 14L14 28L7 21L17.5 14L7 7Z" fill="#02569B"/>
+    <path d="M14 14L7 21L14 28L21 21Z" fill="#45D1FD" opacity="0.8"/>
+    <text x="5" y="38" font-size="8" fill="#e6edf3" font-family="-apple-system, sans-serif" text-anchor="middle" transform="translate(9,0)">Flutter</text>
+  </g>
+  <!-- Dart -->
+  <g transform="translate(112, 50)">
+    <path d="M6 0H22L28 6V22L22 28H6L0 22V6Z" fill="#0175C2"/>
+    <path d="M6 0L28 6V22L22 28H14V14H0V6Z" fill="#13B9FD" opacity="0.7"/>
+    <text x="14" y="38" font-size="8" fill="#e6edf3" font-family="-apple-system, sans-serif" text-anchor="middle">Dart</text>
+  </g>
+  <!-- Kotlin -->
+  <g transform="translate(184, 50)">
+    <path d="M0 0H28L14 14L28 28H0Z" fill="url(#kotlin-grad)"/>
+    <text x="14" y="38" font-size="8" fill="#e6edf3" font-family="-apple-system, sans-serif" text-anchor="middle">Kotlin</text>
+  </g>
+  <!-- Android -->
+  <g transform="translate(256, 50)">
+    <path d="M4 12C4 8 8 4 14 4C20 4 24 8 24 12V24H20V12C20 10 18 8 14 8C10 8 8 10 8 12V24H4Z" fill="#3DDC84"/>
+    <circle cx="10" cy="14" r="1.5" fill="#fff"/>
+    <circle cx="18" cy="14" r="1.5" fill="#fff"/>
+    <path d="M8 2L10 5M20 2L18 5" stroke="#3DDC84" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="14" y="38" font-size="8" fill="#e6edf3" font-family="-apple-system, sans-serif" text-anchor="middle">Android</text>
+  </g>
+  <!-- Java -->
+  <g transform="translate(328, 50)">
+    <path d="M10 2C10 2 8 6 12 10C16 14 18 16 14 22" stroke="#E76F00" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M14 2C14 2 16 6 14 10C12 14 8 16 12 22" stroke="#5382A1" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M6 24C6 24 8 26 14 26C20 26 22 24 22 24" stroke="#E76F00" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <text x="14" y="38" font-size="8" fill="#e6edf3" font-family="-apple-system, sans-serif" text-anchor="middle">Java</text>
+  </g>
+</svg>
