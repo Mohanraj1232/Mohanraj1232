@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 280">
+  <defs>
+    <style>
+      .term-bg { fill: #161b22; }
+      .term-chrome { fill: #21262d; }
+      .term-border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .term-title { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 12px; }
+      .cmd { fill: #e6edf3; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      .output { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; }
+      .dir { fill: #58A6FF; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; font-weight: 700; }
+      .stars { fill: #FFBD2E; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; }
+      .lang { fill: #BC8CFF; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; }
+      .prompt { fill: #3FB950; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      @media (prefers-color-scheme: light) {
+        .term-bg { fill: #f6f8fa; }
+        .term-chrome { fill: #e8ebef; }
+        .term-border { stroke: #d0d7de; }
+        .term-title { fill: #656d76; }
+        .cmd { fill: #1f2328; }
+        .output { fill: #656d76; }
+        .dir { fill: #0969da; }
+        .stars { fill: #9a6700; }
+        .lang { fill: #8250df; }
+        .prompt { fill: #1a7f37; }
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect class="term-bg" x="0.5" y="0.5" width="839" height="279" rx="10"/>
+  <rect class="term-border" x="0.5" y="0.5" width="839" height="279" rx="10"/>
+
+  <!-- Chrome bar -->
+  <rect class="term-chrome" x="1" y="1" width="838" height="32" rx="10"/>
+  <rect class="term-bg" x="1" y="23" width="838" height="10"/>
+  <circle cx="20" cy="17" r="6" fill="#FF5F56"/>
+  <circle cx="40" cy="17" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="17" r="6" fill="#27C93F"/>
+  <text class="term-title" x="420" y="21" text-anchor="middle">~/projects</text>
+
+  <!-- Command -->
+  <text class="prompt" x="24" y="58">$</text>
+  <text class="cmd" x="40" y="58">ls -la --sort=impact</text>
+
+  <!-- Project rows -->
+  <!-- LeetCode -->
+  <text class="stars" x="24" y="90">39&#x2605;</text>
+  <text class="dir" x="72" y="90">LeetCode/</text>
+  <text class="lang" x="220" y="90">Java</text>
+  <text class="output" x="300" y="90">Data structures &amp; algorithms solutions</text>
+
+  <!-- SafeShield -->
+  <text class="output" x="24" y="120">&#x276F;</text>
+  <text class="dir" x="72" y="120">SafeShield/</text>
+  <text class="lang" x="220" y="120">Dart</text>
+  <text class="output" x="300" y="120">Personal safety app &#x2022; Firebase &#x2022; Google Maps</text>
+
+  <!-- Elite-Bikes -->
+  <text class="output" x="24" y="150">&#x276F;</text>
+  <text class="dir" x="72" y="150">Elite-Bikes/</text>
+  <text class="lang" x="220" y="150">Java</text>
+  <text class="output" x="300" y="150">Android bike services application</text>
+
+  <!-- Face Detection -->
+  <text class="output" x="24" y="180">&#x276F;</text>
+  <text class="dir" x="72" y="180">NPN-Face-Detection/</text>
+  <text class="lang" x="220" y="180">Python</text>
+  <text class="output" x="300" y="180">Machine learning face detection system</text>
+
+  <!-- Multi-container -->
+  <text class="output" x="24" y="210">&#x276F;</text>
+  <text class="dir" x="72" y="210">multi-container-app/</text>
+  <text class="lang" x="220" y="210">JS</text>
+  <text class="output" x="300" y="210">Docker multi-container deployment</text>
+
+  <!-- Graph Visual -->
+  <text class="output" x="24" y="240">&#x276F;</text>
+  <text class="dir" x="72" y="240">graph-visual/</text>
+  <text class="lang" x="220" y="240">JS</text>
+  <text class="output" x="300" y="240">Graph visualization tool</text>
+
+  <!-- Prompt at bottom -->
+  <text class="prompt" x="24" y="268">$</text>
+  <text class="output" x="40" y="268">6 projects &#x2022; 5 languages &#x2022; mobile + web + devops + ML</text>
+</svg>

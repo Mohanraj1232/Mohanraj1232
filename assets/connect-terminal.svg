@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 130">
+  <defs>
+    <style>
+      .term-bg { fill: #161b22; }
+      .term-chrome { fill: #21262d; }
+      .term-border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .term-title { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 12px; }
+      .cmd { fill: #e6edf3; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      .link { fill: #58A6FF; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; }
+      .label { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 13px; }
+      .prompt { fill: #3FB950; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      @media (prefers-color-scheme: light) {
+        .term-bg { fill: #f6f8fa; }
+        .term-chrome { fill: #e8ebef; }
+        .term-border { stroke: #d0d7de; }
+        .term-title { fill: #656d76; }
+        .cmd { fill: #1f2328; }
+        .link { fill: #0969da; }
+        .label { fill: #656d76; }
+        .prompt { fill: #1a7f37; }
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect class="term-bg" x="0.5" y="0.5" width="839" height="129" rx="10"/>
+  <rect class="term-border" x="0.5" y="0.5" width="839" height="129" rx="10"/>
+
+  <!-- Chrome bar -->
+  <rect class="term-chrome" x="1" y="1" width="838" height="32" rx="10"/>
+  <rect class="term-bg" x="1" y="23" width="838" height="10"/>
+  <circle cx="20" cy="17" r="6" fill="#FF5F56"/>
+  <circle cx="40" cy="17" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="17" r="6" fill="#27C93F"/>
+  <text class="term-title" x="420" y="21" text-anchor="middle">~/links</text>
+
+  <!-- Command -->
+  <text class="prompt" x="24" y="58">$</text>
+  <text class="cmd" x="40" y="58">cat connect.sh</text>
+
+  <!-- Links -->
+  <text class="label" x="24" y="82">email</text>
+  <text class="link" x="120" y="82">g.mohanrajgtmt@gmail.com</text>
+
+  <text class="label" x="420" y="82">linkedin</text>
+  <text class="link" x="520" y="82">linkedin.com/in/mohanrajg07</text>
+
+  <text class="label" x="24" y="108">github</text>
+  <text class="link" x="120" y="108">github.com/Mohanraj1232</text>
+
+  <text class="label" x="420" y="108">leetcode</text>
+  <text class="link" x="520" y="108">leetcode.com/mohanraj-g</text>
+</svg>

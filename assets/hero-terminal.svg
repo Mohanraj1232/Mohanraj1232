@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220">
+  <defs>
+    <style>
+      .term-bg { fill: #161b22; }
+      .term-chrome { fill: #21262d; }
+      .term-border { fill: none; stroke: #30363d; stroke-width: 1; }
+      .term-title { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 12px; }
+      .cmd { fill: #e6edf3; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      .output { fill: #8b949e; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; }
+      .name { fill: #e6edf3; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 20px; font-weight: 700; }
+      .prompt { fill: #3FB950; font-family: 'SF Mono', 'Cascadia Code', 'JetBrains Mono', monospace; font-size: 14px; font-weight: 700; }
+      .accent { fill: #58A6FF; }
+      .cursor { fill: #e6edf3; }
+      @media (prefers-color-scheme: light) {
+        .term-bg { fill: #f6f8fa; }
+        .term-chrome { fill: #e8ebef; }
+        .term-border { stroke: #d0d7de; }
+        .term-title { fill: #656d76; }
+        .cmd { fill: #1f2328; }
+        .output { fill: #656d76; }
+        .name { fill: #1f2328; }
+        .prompt { fill: #1a7f37; }
+        .accent { fill: #0969da; }
+        .cursor { fill: #1f2328; }
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect class="term-bg" x="0.5" y="0.5" width="839" height="219" rx="10"/>
+  <rect class="term-border" x="0.5" y="0.5" width="839" height="219" rx="10"/>
+
+  <!-- Chrome bar -->
+  <rect class="term-chrome" x="1" y="1" width="838" height="32" rx="10"/>
+  <rect class="term-bg" x="1" y="23" width="838" height="10"/>
+  <circle cx="20" cy="17" r="6" fill="#FF5F56"/>
+  <circle cx="40" cy="17" r="6" fill="#FFBD2E"/>
+  <circle cx="60" cy="17" r="6" fill="#27C93F"/>
+  <text class="term-title" x="420" y="21" text-anchor="middle">mohanraj@github</text>
+
+  <!-- Line 1: whoami -->
+  <text class="prompt" x="24" y="60">$</text>
+  <text class="cmd" x="40" y="60">whoami</text>
+  <text class="name" x="24" y="88">Mohanraj G</text>
+
+  <!-- Line 2: cat role -->
+  <text class="prompt" x="24" y="118">$</text>
+  <text class="cmd" x="40" y="118">cat role.txt</text>
+  <text class="output" x="24" y="142">Flutter &amp; Android Developer</text>
+  <text class="output" x="24" y="162">Building mobile apps &#x2022; Solving DSA &#x2022; Exploring DevOps</text>
+
+  <!-- Line 3: uptime -->
+  <text class="prompt" x="24" y="192">$</text>
+  <text class="cmd" x="40" y="192">uptime</text>
+  <text class="output" x="24" y="210">2+ years active &#x2022; 21 repositories &#x2022; 41 &#x2605;</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="760" y="183" width="9" height="16" rx="1">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
