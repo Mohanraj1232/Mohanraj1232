@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 175" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 105" fill="none">
   <defs>
     <style>
       .about-bg { fill: #080a0c; }
@@ -40,8 +40,8 @@
   </defs>
 
   <!-- Background -->
-  <rect class="about-bg" width="900" height="175"/>
-  <rect class="about-border" x="0.5" y="0.5" width="899" height="174"/>
+  <rect class="about-bg" width="900" height="105"/>
+  <rect class="about-border" x="0.5" y="0.5" width="899" height="104"/>
 
   <!-- Section label -->
   <text class="section-label" x="32" y="32">About</text>
@@ -50,17 +50,5 @@
   <text class="bio-text" x="32" y="65">Computer Science student and software developer passionate about building</text>
   <text class="bio-text" x="32" y="87">practical solutions, solving problems, and turning ideas into meaningful digital experiences.</text>
 
-  <!-- Separator -->
-  <rect class="divider" x="32" y="108" width="836" height="1"/>
-
-  <!-- Details row -->
-  <text class="detail-key" x="32" y="135">Currently</text>
-  <text class="detail-val" x="32" y="155">Building full-stack web applications</text>
-
-  <text class="detail-key" x="320" y="135">Learning</text>
-  <text class="detail-val" x="320" y="155">System Design &amp; Cloud Architecture</text>
-
-  <text class="detail-key" x="620" y="135">Focus</text>
-  <text class="detail-val" x="620" y="155">Clean code &amp; efficient solutions</text>
 
 </svg>
