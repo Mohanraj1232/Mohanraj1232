@@ -10,44 +10,26 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-### `ABOUT`
-
-```
-Computer Science student and software
-developer passionate about building
-practical solutions and turning ideas
-into meaningful digital experiences.
-```
-
-<sub>&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;</sub>
-
-&nbsp;&nbsp;`CURRENTLY`&nbsp;&nbsp;Building full-stack web applications  
-&nbsp;&nbsp;`LEARNING`&nbsp;&nbsp;&nbsp;System Design & Cloud Architecture  
-&nbsp;&nbsp;`FOCUS`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clean code & efficient solutions
-
-</td>
-<td width="45%" valign="top">
-
-### `CONNECT`
+> Computer Science student and software developer passionate about building practical solutions, solving problems, and turning ideas into meaningful digital experiences.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050607?style=flat-square&logo=vercel&logoColor=white)](https://mohanraj-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050607?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanrajg07/)
-[![Email](https://img.shields.io/badge/Email-050607?style=flat-square&logo=gmail&logoColor=white)](mailto:g.mohanrajgtmt@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-050607?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/mohanraj-g)
+| | |
+|:--|:--|
+| **Currently** | Building full-stack web applications |
+| **Learning** | System Design & Cloud Architecture |
+| **Focus** | Clean code & efficient solutions |
 
 <br/>
 
-<sub>Open to collaborations and opportunities</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://mohanraj-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohanrajg07/"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logoColor=000" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:g.mohanrajgtmt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/mohanraj-g"><img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logoColor=000" alt="LeetCode"/></a>
+</p>
 
 <br/>
 
