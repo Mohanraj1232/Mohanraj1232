@@ -87,9 +87,18 @@
 <br/>
 
 <div align="center">
-<sub>
-<code>BUILDING THOUGHTFUL DIGITAL EXPERIENCES</code>
+
+### Let's Connect
+
+<br/>
+
+<a href="mailto:g.mohanrajgtmt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Mohanraj1232"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohanrajg07/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://leetcode.com/mohanraj-g"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Mohanraj1232&color=2D8CF0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-</sub>
+
 </div>

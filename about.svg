@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 175" fill="none">
   <defs>
     <style>
       .about-bg { fill: #080a0c; }
@@ -40,8 +40,8 @@
   </defs>
 
   <!-- Background -->
-  <rect class="about-bg" width="900" height="240"/>
-  <rect class="about-border" x="0.5" y="0.5" width="899" height="239"/>
+  <rect class="about-bg" width="900" height="175"/>
+  <rect class="about-border" x="0.5" y="0.5" width="899" height="174"/>
 
   <!-- Section label -->
   <text class="section-label" x="32" y="32">About</text>
@@ -63,19 +63,4 @@
   <text class="detail-key" x="620" y="135">Focus</text>
   <text class="detail-val" x="620" y="155">Clean code &amp; efficient solutions</text>
 
-  <!-- Separator -->
-  <rect class="divider" x="32" y="178" width="836" height="1"/>
-
-  <!-- Links -->
-  <rect class="link-border" x="32" y="195" width="90" height="26"/>
-  <text class="link-text" x="46" y="212">Portfolio</text>
-
-  <rect class="link-border" x="140" y="195" width="86" height="26"/>
-  <text class="link-text" x="154" y="212">LinkedIn</text>
-
-  <rect class="link-border" x="244" y="195" width="68" height="26"/>
-  <text class="link-text" x="260" y="212">Email</text>
-
-  <rect class="link-border" x="330" y="195" width="90" height="26"/>
-  <text class="link-text" x="344" y="212">LeetCode</text>
 </svg>
