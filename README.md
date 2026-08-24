@@ -32,6 +32,15 @@
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&theme=transparent&title_color=fff&text_color=aaa&icon_color=2d8cf0" height="165" alt="GitHub Stats"/>&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&theme=transparent&title_color=fff&text_color=aaa" height="165" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=fff&sideLabels=aaa&currStreakNum=fff&sideNums=aaa&dates=666&stroke=333&background=0D1117" width="520" alt="Streak Stats"/>
 
 </div>
