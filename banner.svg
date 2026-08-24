@@ -52,13 +52,6 @@
         opacity: 0;
         animation: fadeIn 0.6s ease 0.6s forwards;
       }
-      .role-text {
-        font-family: 'SF Mono', 'Fira Code', monospace;
-        font-size: 12px;
-        letter-spacing: 2.5px;
-        text-transform: uppercase;
-        fill: rgba(255,255,255,0.5);
-      }
       .cursor {
         animation: blink 1s step-end infinite;
         fill: rgba(45,140,240,0.7);
@@ -100,14 +93,40 @@
   <!-- Name -->
   <text class="name" x="60" y="195">Mohanraj G</text>
 
-  <!-- Divider line -->
-  <rect class="divider" x="60" y="220" width="64" height="1" fill="rgba(255,255,255,0.4)"/>
+  
+  <!-- Animated typing text -->
+  <g opacity="0" style="animation: fadeIn 0.6s ease 0.8s forwards;">
+    <rect x="60" y="248" width="2" height="18" class="cursor"/>
+    <!-- Text 1: Full Stack Developer -->
+    <g>
+      <clipPath id="clipT1">
+        <rect x="68" y="235" width="0" height="24">
+          <animate attributeName="width" values="0;260;260;260;0;0;0;0;0;0;0;0" keyTimes="0;0.08;0.25;0.28;0.32;0.33;0.5;0.58;0.75;0.78;0.82;1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <text class="tagline" x="68" y="262" style="opacity:1;animation:none;font-size:15px;" clip-path="url(#clipT1)">Full Stack Developer</text>
+    </g>
+    <!-- Text 2: Building Digital Experiences -->
+    <g>
+      <clipPath id="clipT2">
+        <rect x="68" y="235" width="0" height="24">
+          <animate attributeName="width" values="0;0;0;0;0;320;320;320;0;0;0;0" keyTimes="0;0.32;0.33;0.35;0.36;0.44;0.58;0.61;0.65;0.66;0.83;1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <text class="tagline" x="68" y="262" style="opacity:1;animation:none;font-size:15px;" clip-path="url(#clipT2)">Building Digital Experiences</text>
+    </g>
+    <!-- Text 3: Problem Solver -->
+    <g>
+      <clipPath id="clipT3">
+        <rect x="68" y="235" width="0" height="24">
+          <animate attributeName="width" values="0;0;0;0;0;0;0;0;0;200;200;200;0;0" keyTimes="0;0.32;0.33;0.5;0.58;0.64;0.65;0.66;0.68;0.76;0.92;0.95;0.98;1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+      </clipPath>
+      <text class="tagline" x="68" y="262" style="opacity:1;animation:none;font-size:15px;" clip-path="url(#clipT3)">Problem Solver</text>
+    </g>
+  </g>
 
   <!-- Tagline -->
-  <text class="tagline" x="60" y="260">Building thoughtful digital experiences,</text>
-  <text class="tagline" x="60" y="282" style="animation-delay: 1s;">intelligent applications, and practical solutions.</text>
-
-  
   <!-- Right side: Portrait with frame -->
   <!-- Thin offset border frame -->
   <rect class="portrait-frame" x="634" y="24" width="292" height="372"/>
