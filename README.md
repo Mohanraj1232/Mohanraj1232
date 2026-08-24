@@ -1,6 +1,4 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
@@ -8,14 +6,7 @@
   <img alt="Mohanraj G — Software Developer" src="./banner.svg" width="100%"/>
 </picture>
 
-</td>
-<td width="40%" align="center" valign="center">
-
-<img src="./portrait.png" width="280" alt="Mohanraj G" style="border-radius: 0; filter: grayscale(100%) contrast(1.1) brightness(0.9);"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
