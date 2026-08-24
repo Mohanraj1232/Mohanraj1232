@@ -20,6 +20,14 @@
 
 <div align="center">
 
+<img src="./lanyard.svg" width="320" alt="Mohanraj G — Developer ID Badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="./tech-stack.svg" width="100%" alt="Tech Stack"/>
 
 </div>
