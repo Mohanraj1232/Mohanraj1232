@@ -10,26 +10,11 @@
 
 <br/>
 
-<br/>
+<div align="center">
 
-> Computer Science student and software developer passionate about building practical solutions, solving problems, and turning ideas into meaningful digital experiences.
+<img src="./about.svg" width="100%" alt="About"/>
 
-<br/>
-
-| | |
-|:--|:--|
-| **Currently** | Building full-stack web applications |
-| **Learning** | System Design & Cloud Architecture |
-| **Focus** | Clean code & efficient solutions |
-
-<br/>
-
-<p align="center">
-<a href="https://mohanraj-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohanrajg07/"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logoColor=000" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:g.mohanrajgtmt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/mohanraj-g"><img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logoColor=000" alt="LeetCode"/></a>
-</p>
+</div>
 
 <br/>
 
