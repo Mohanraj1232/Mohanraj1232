@@ -1,0 +1,649 @@
+Act as a **world-class GitHub profile designer, developer-brand strategist, UI/UX designer, visual designer, and technical writer**.
+
+I want you to design a **stunning, highly memorable GitHub Profile README for me**.
+
+Do NOT immediately write the README.
+
+Your first task is to research, analyze, compare, and design the concept.
+
+---
+
+# PRIMARY OBJECTIVE
+
+Create a GitHub Profile README that feels like:
+
+**A premium developer portfolio + personal brand + engineering dashboard**
+
+It must be visually impressive, technically credible, content-rich, and highly personalized.
+
+I do NOT want a generic README containing:
+
+* "Hi, I'm ..."
+* Huge badge collections
+* Random GitHub stats
+* Generic skill lists
+* Excessive emojis
+* Copy-pasted templates
+* Generic motivational quotes
+* Unnecessary visitor counters
+* Massive walls of text
+
+The final result should make someone visiting my GitHub profile think:
+
+> "This profile is exceptionally well designed."
+
+and also:
+
+> "This developer actually builds things."
+
+---
+
+# PHASE 1 — RESEARCH REAL DEVELOPERS
+
+Before designing anything, research **multiple excellent GitHub profiles and developer portfolios**.
+
+Look across different styles.
+
+Find at least **10–15 strong examples** from real developers.
+
+Study profiles with different approaches, such as:
+
+* Highly visual GitHub profiles
+* Minimal professional profiles
+* Engineering-focused profiles
+* Developer dashboard profiles
+* Creative profiles
+* Open-source-focused profiles
+* Student developer profiles that are exceptionally well designed
+* Profiles using custom SVGs
+* Profiles using animations
+* Profiles using custom graphics
+* Profiles with strong project showcases
+* Profiles with excellent storytelling
+
+Do NOT copy any profile.
+
+Instead, analyze the design patterns that make them successful.
+
+For each reference identify:
+
+* Hero structure
+* Visual hierarchy
+* Typography
+* Color strategy
+* Layout
+* Use of whitespace
+* Graphics
+* SVG usage
+* Animation
+* Project presentation
+* Skill visualization
+* GitHub statistics
+* Personal branding
+* Content writing
+* Storytelling
+* CTA
+* What works
+* What looks excessive or outdated
+
+Then identify the **best patterns across all references**.
+
+---
+
+# PHASE 2 — COMPARE DESIGN DIRECTIONS
+
+Based on the research, create **at least 5 radically different concepts** for my GitHub profile.
+
+Examples of directions you may explore:
+
+### 1. Developer Command Center
+
+A futuristic developer dashboard containing identity, activity, skills, projects and engineering metrics.
+
+### 2. Engineering Blueprint
+
+A technical blueprint-inspired profile showing projects, architecture, skills and development journey.
+
+### 3. Premium Bento Portfolio
+
+A sophisticated bento-grid layout inspired by modern product websites such as Linear, Vercel, Apple and Stripe.
+
+### 4. Terminal / Operating System
+
+A highly polished terminal-inspired developer identity.
+
+### 5. Digital Developer Universe
+
+Skills, projects, technologies, interests and achievements represented as connected visual nodes.
+
+Create your own concepts too.
+
+For EACH concept explain:
+
+* Overall visual identity
+* Hero design
+* Layout
+* Graphics
+* Color palette
+* Content structure
+* Project presentation
+* Skills visualization
+* GitHub activity
+* Animation possibilities
+* Mobile behavior
+* Why it would stand out
+* Risks
+* GitHub limitations
+
+---
+
+# PHASE 3 — SELECT THE BEST CONCEPT
+
+Choose the **single strongest direction** for my profile.
+
+Do not simply select the safest design.
+
+Optimize for:
+
+* Visual impact
+* Professionalism
+* Uniqueness
+* Recruiter appeal
+* Developer credibility
+* Personal branding
+* Readability
+* Technical personality
+* GitHub compatibility
+* Mobile compatibility
+* Maintainability
+
+Explain why this concept is stronger than the others.
+
+---
+
+# PHASE 4 — BUILD A VISUAL SYSTEM
+
+Design the complete visual language.
+
+Define:
+
+## Color System
+
+Create:
+
+* Primary background
+* Secondary background
+* Card background
+* Primary text
+* Secondary text
+* Accent
+* Borders
+* Highlight colors
+
+The palette must work with GitHub's dark/light environments.
+
+Avoid random neon colors.
+
+---
+
+# GRAPHICAL SYSTEM
+
+I want **real graphical elements**, not just text and badges.
+
+Design graphics such as:
+
+* Custom hero illustration
+* Profile image treatment
+* Custom SVG decorations
+* Developer dashboard elements
+* Project cards
+* Skill visualization
+* Architecture diagrams
+* GitHub activity visualization
+* Timeline graphics
+* Technical diagrams
+* Custom section dividers
+* Footer graphic
+
+For every graphic specify:
+
+* Purpose
+* Appearance
+* Dimensions
+* Format
+* Where it appears
+* Data it represents
+* Static/animated
+* How it renders in GitHub
+* Mobile behavior
+
+Use SVG wherever it improves quality.
+
+---
+
+# HERO SECTION
+
+The hero must be exceptional.
+
+It should communicate within approximately **5 seconds**:
+
+* Who I am
+* What I do
+* What technologies I work with
+* What I am building
+* Where people can find me
+
+Explore combinations such as:
+
+* Profile photo + developer identity
+* Custom SVG illustration
+* Code window
+* Terminal window
+* Status indicator
+* Developer title
+* Technical tagline
+* Social links
+* Visual background
+
+Do NOT make it look like a generic portfolio banner.
+
+---
+
+# PROFILE PHOTO
+
+Design a sophisticated way to incorporate my photo.
+
+Potential directions:
+
+* Developer ID card
+* Circular technical frame
+* Glass card
+* Orbital system
+* Terminal profile
+* Blueprint frame
+* Minimal monochrome treatment
+* SVG frame
+* Bento card
+
+Select the style that best matches the overall concept.
+
+---
+
+# CONTENT STRATEGY
+
+The README must also be **content-wise excellent**.
+
+Create a compelling story:
+
+### Identity
+
+Who am I?
+
+### Engineering Focus
+
+What do I build?
+
+### Technical Strength
+
+What technologies do I use?
+
+### Projects
+
+What have I actually built?
+
+### Problem Solving
+
+How do I practice DSA/coding?
+
+### Journey
+
+What have I achieved?
+
+### Current Focus
+
+What am I learning/building now?
+
+### Future Direction
+
+What areas am I moving toward?
+
+### Contact
+
+How can someone reach me?
+
+The writing should sound:
+
+* Confident
+* Human
+* Concise
+* Technical
+* Authentic
+
+Avoid cliché phrases like:
+
+> "I am a passionate coder who loves learning new technologies."
+
+---
+
+# PROJECT SHOWCASE
+
+Projects should be one of the strongest visual sections.
+
+Do NOT simply create:
+
+Project → Description → Tech stack
+
+Instead design visually rich project cards.
+
+Each card may contain:
+
+* Project title
+* Project visual
+* Short problem statement
+* What I built
+* Key technical features
+* Technologies
+* GitHub
+* Live demo
+* Status
+
+Prioritize projects that demonstrate genuine engineering ability.
+
+Inspect my actual repositories and select the strongest projects.
+
+Do NOT invent details.
+
+---
+
+# SKILLS VISUALIZATION
+
+Do NOT create a giant badge wall.
+
+Consider:
+
+* Technology constellation
+* Radial skill map
+* Layered stack
+* Engineering architecture
+* Category cards
+* Technology pipeline
+
+Possible structure:
+
+Languages
+↓
+Frameworks
+↓
+Backend / Database
+↓
+Tools
+↓
+Platforms
+
+Choose the visualization that best fits the selected concept.
+
+---
+
+# GITHUB ACTIVITY
+
+Make GitHub activity part of the design.
+
+Possible elements:
+
+* Contribution graph
+* Coding streak
+* Repository activity
+* Language distribution
+* Commit activity
+* GitHub statistics
+* Contribution timeline
+
+Do not include every widget.
+
+Only use reliable and visually coherent components.
+
+**Never fabricate statistics.**
+
+---
+
+# ACHIEVEMENTS
+
+Create a visually clean achievements section.
+
+Potential categories:
+
+* Coding competitions
+* Hackathons
+* Internships
+* Certifications
+* Research
+* Startup/project work
+* Awards
+
+Use a timeline, achievement cards, or another visual system.
+
+Do not make this look like a resume dump.
+
+---
+
+# CURRENTLY BUILDING
+
+Create a strong "Currently" section.
+
+Possible structure:
+
+CURRENTLY BUILDING
+→ Project
+→ Technology
+→ Problem
+
+CURRENTLY LEARNING
+→ Technology
+→ Concept
+
+CURRENTLY EXPLORING
+→ Area
+
+This section should make the profile feel alive and current.
+
+---
+
+# TECHNICAL PERSONALITY
+
+The README should communicate that I am an engineer who:
+
+* Builds real projects
+* Practices problem solving
+* Learns continuously
+* Experiments with technology
+* Cares about good engineering
+* Enjoys creating useful software
+
+The profile should tell a story, not simply list information.
+
+---
+
+# ANIMATION
+
+Explore tasteful animations.
+
+Potential ideas:
+
+* Animated SVG
+* Terminal cursor
+* Code typing
+* Moving nodes
+* Subtle line animation
+* Animated contribution visualization
+* Micro-interactions through GIF/SVG
+
+However:
+
+**Use animation sparingly.**
+
+Do not make the profile look childish or distracting.
+
+---
+
+# GITHUB TECHNICAL LIMITATIONS
+
+The final design MUST realistically work in a GitHub README.
+
+Research/consider:
+
+* Markdown capabilities
+* GitHub HTML support
+* SVG handling
+* External image hosting
+* GIF support
+* JavaScript limitations
+* CSS limitations
+* Mobile rendering
+* Dark/light mode behavior
+* Image sizing
+* External widget reliability
+
+Do not design functionality that requires unsupported JavaScript.
+
+---
+
+# RESPONSIVE DESIGN
+
+Think about:
+
+### Desktop
+
+Large visual hierarchy.
+
+### Tablet
+
+Balanced layout.
+
+### Mobile
+
+Readable, compact, no broken tables or extremely wide graphics.
+
+The README must remain usable at different widths.
+
+---
+
+# PERSONAL DATA
+
+Before writing the final design, inspect my available GitHub information and existing README.
+
+Use real data for:
+
+* Name
+* Education
+* Skills
+* Projects
+* Achievements
+* Experience
+* Links
+* Repositories
+* Coding activity
+
+Never fabricate anything.
+
+If information is missing, use placeholders rather than inventing facts.
+
+---
+
+# CONTENT QUALITY CHECK
+
+After designing the README, evaluate it like three people:
+
+## Recruiter
+
+Can I understand this developer quickly?
+
+## Senior Engineer
+
+Does this profile demonstrate genuine technical ability?
+
+## Designer
+
+Does this look visually exceptional?
+
+The final design should satisfy all three.
+
+---
+
+# FINAL DELIVERABLE
+
+After research and analysis, produce:
+
+## 1. Reference Analysis
+
+Summarize the strongest patterns discovered from the 10–15 developer profiles.
+
+## 2. Design Concepts
+
+Present at least 5 different concepts.
+
+## 3. Selected Direction
+
+Choose the strongest concept and explain why.
+
+## 4. Complete Visual Architecture
+
+Describe every section from top to bottom.
+
+## 5. Graphics Architecture
+
+Specify every SVG/image/diagram/animation required.
+
+## 6. Content Architecture
+
+Describe exactly what information each section should communicate.
+
+## 7. Color + Typography System
+
+## 8. GitHub Compatibility Strategy
+
+## 9. Final Implementation Prompt
+
+Finally, write ONE extremely detailed prompt that can be given to Claude Code to actually implement the selected design.
+
+That final implementation prompt must tell Claude Code exactly:
+
+* What to inspect
+* What to create
+* What to remove
+* What graphics to generate
+* What SVGs to create
+* What sections to build
+* What content to write
+* How to structure the README
+* How to handle projects
+* How to handle GitHub statistics
+* How to handle animations
+* How to handle dark/light mode
+* How to handle mobile
+* How to validate the result
+* How to avoid broken assets
+* How to avoid fake information
+
+---
+
+# MOST IMPORTANT CREATIVE RULE
+
+Do not optimize for "more".
+
+Optimize for:
+
+**WOW + clarity + personality + engineering credibility.**
+
+I want the README to feel like someone designed an entire visual identity for my GitHub profile.
+
+It should be:
+
+**visually stunning + technically impressive + content rich + original + memorable.**
+
+Do not copy any individual developer.
+
+Use research only to identify successful patterns and then create an **original design specifically for me**.
+
+The final result should feel like:
+
+> **"This is not a GitHub README. This is a developer experience."**
