@@ -10,27 +10,24 @@
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="320" align="center" valign="top">
+
+<img src="./lanyard.svg" width="280" alt="Mohanraj G — Developer ID Badge"/>
+
+</td>
+<td valign="top">
 
 <img src="./about.svg" width="100%" alt="About"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./lanyard.svg" width="320" alt="Mohanraj G — Developer ID Badge"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="./tech-stack.svg" width="100%" alt="Tech Stack"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
