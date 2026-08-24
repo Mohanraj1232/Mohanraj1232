@@ -32,8 +32,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&bg_color=080a0c&title_color=ffffff&text_color=ffffffb3&icon_color=2D8CF0&ring_color=2D8CF0" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&bg_color=080a0c&title_color=ffffff&text_color=ffffffb3" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&theme=transparent&title_color=fff&text_color=aaa&icon_color=2d8cf0" height="165" alt="GitHub Stats"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&theme=transparent&title_color=fff&text_color=aaa" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Mohanraj1232&theme=transparent&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=ffffff&sideLabels=ffffff99&currStreakNum=ffffff&sideNums=ffffff99&dates=ffffff66&stroke=ffffff08&background=080a0c" width="520" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=fff&sideLabels=aaa&currStreakNum=fff&sideNums=aaa&dates=666&stroke=333&background=0D1117" height="165" alt="Streak Stats"/>
 
 </div>
 
