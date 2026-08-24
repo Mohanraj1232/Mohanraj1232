@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200" fill="none">
+  <defs>
+    <style>
+      @keyframes fadeSlide {
+        from { opacity: 0; transform: translateX(-8px); }
+        to { opacity: 1; transform: translateX(0); }
+      }
+      @keyframes countUp {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      @keyframes barFill {
+        from { width: 0; }
+      }
+      .card-bg { fill: #080a0c; }
+      .card-border { stroke: rgba(255,255,255,0.06); stroke-width: 1; fill: none; }
+      .stat-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 9px;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.45);
+      }
+      .stat-value {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        fill: #ffffff;
+        letter-spacing: -0.5px;
+      }
+      .stat-row {
+        opacity: 0;
+        animation: fadeSlide 0.5s ease forwards;
+      }
+      .row-1 { animation-delay: 0.2s; }
+      .row-2 { animation-delay: 0.35s; }
+      .row-3 { animation-delay: 0.5s; }
+      .row-4 { animation-delay: 0.65s; }
+      .bar-bg { fill: rgba(255,255,255,0.04); }
+      .bar-fill { fill: rgba(45,140,240,0.4); }
+      .bar-1 { width: 85px; animation: barFill 0.8s ease 0.4s both; }
+      .bar-2 { width: 120px; animation: barFill 0.8s ease 0.55s both; }
+      .bar-3 { width: 65px; animation: barFill 0.8s ease 0.7s both; }
+      .bar-4 { width: 95px; animation: barFill 0.8s ease 0.85s both; }
+      .section-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 10px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.35);
+      }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect class="card-bg" width="420" height="200" rx="0"/>
+  <rect class="card-border" x="0.5" y="0.5" width="419" height="199" rx="0"/>
+
+  <!-- Title -->
+  <text class="section-title" x="24" y="30">GitHub Activity</text>
+
+  <!-- Stat rows -->
+  <g class="stat-row row-1" transform="translate(24, 50)">
+    <text class="stat-label" x="0" y="10">Repositories</text>
+    <text class="stat-value" x="0" y="36">40+</text>
+    <rect class="bar-bg" x="100" y="24" width="140" height="3" rx="1"/>
+    <rect class="bar-fill bar-1" x="100" y="24" height="3" rx="1"/>
+  </g>
+
+  <g class="stat-row row-2" transform="translate(24, 90)">
+    <text class="stat-label" x="0" y="10">Contributions</text>
+    <text class="stat-value" x="0" y="36">500+</text>
+    <rect class="bar-bg" x="100" y="24" width="140" height="3" rx="1"/>
+    <rect class="bar-fill bar-2" x="100" y="24" height="3" rx="1"/>
+  </g>
+
+  <g class="stat-row row-3" transform="translate(240, 50)">
+    <text class="stat-label" x="0" y="10">Stars</text>
+    <text class="stat-value" x="0" y="36">15+</text>
+    <rect class="bar-bg" x="80" y="24" width="100" height="3" rx="1"/>
+    <rect class="bar-fill bar-3" x="80" y="24" height="3" rx="1"/>
+  </g>
+
+  <g class="stat-row row-4" transform="translate(240, 90)">
+    <text class="stat-label" x="0" y="10">Pull Requests</text>
+    <text class="stat-value" x="0" y="36">30+</text>
+    <rect class="bar-bg" x="80" y="24" width="100" height="3" rx="1"/>
+    <rect class="bar-fill bar-4" x="80" y="24" height="3" rx="1"/>
+  </g>
+
+  <!-- Bottom divider -->
+  <rect x="24" y="145" width="372" height="1" fill="rgba(255,255,255,0.04)"/>
+
+  <!-- Footer note -->
+  <text x="24" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="rgba(255,255,255,0.5)" letter-spacing="0.3px">
+    Committed to writing clean, efficient code every day.
+  </text>
+</svg>

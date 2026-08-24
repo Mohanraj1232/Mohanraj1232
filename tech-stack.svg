@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" fill="none">
+  <defs>
+    <style>
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .card { fill: #050607; }
+      .card-frame { stroke: rgba(255,255,255,0.06); stroke-width: 1; fill: none; }
+      .section-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 9px;
+        letter-spacing: 3.5px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.4);
+      }
+      .tech-item {
+        opacity: 0;
+        animation: fadeUp 0.5s ease forwards;
+      }
+      .tech-name {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 11px;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.7);
+      }
+      .tech-dot {
+        fill: rgba(45,140,240,0.5);
+      }
+      .category-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 9px;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.3);
+      }
+      .divider { fill: rgba(255,255,255,0.06); }
+    </style>
+  </defs>
+
+  <rect class="card" width="900" height="180"/>
+  <rect class="card-frame" x="0.5" y="0.5" width="899" height="179"/>
+
+  <!-- Section title -->
+  <text class="section-label" x="32" y="30">Tech Stack</text>
+
+  <!-- Languages -->
+  <text class="category-label" x="32" y="65">Languages</text>
+  <g class="tech-item" style="animation-delay: 0.1s" transform="translate(32, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">JavaScript</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.15s" transform="translate(140, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">TypeScript</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.2s" transform="translate(248, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Python</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.25s" transform="translate(335, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Java</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.3s" transform="translate(405, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Dart</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.35s" transform="translate(470, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">C++</text>
+  </g>
+
+  <!-- Divider -->
+  <rect class="divider" x="560" y="55" width="1" height="100"/>
+
+  <!-- Frameworks -->
+  <text class="category-label" x="590" y="65">Frameworks</text>
+  <g class="tech-item" style="animation-delay: 0.4s" transform="translate(590, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">React / Next.js</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.45s" transform="translate(740, 78)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Node.js</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.5s" transform="translate(590, 104)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Flutter</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.55s" transform="translate(740, 104)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Express</text>
+  </g>
+
+  <!-- Tools row -->
+  <text class="category-label" x="32" y="120">Tools</text>
+  <g class="tech-item" style="animation-delay: 0.6s" transform="translate(32, 133)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Git</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.65s" transform="translate(100, 133)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Docker</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.7s" transform="translate(195, 133)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">MongoDB</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.75s" transform="translate(305, 133)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">PostgreSQL</text>
+  </g>
+  <g class="tech-item" style="animation-delay: 0.8s" transform="translate(430, 133)">
+    <circle class="tech-dot" cx="4" cy="8" r="2.5"/>
+    <text class="tech-name" x="14" y="12">Firebase</text>
+  </g>
+</svg>
