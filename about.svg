@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 105" fill="none">
+  <defs>
+    <style>
+      .about-bg { fill: #080a0c; }
+      .about-border { stroke: rgba(255,255,255,0.06); stroke-width: 1; fill: none; }
+      .section-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 9px;
+        letter-spacing: 3.5px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.4);
+      }
+      .bio-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 13.5px;
+        fill: rgba(255,255,255,0.7);
+      }
+      .detail-key {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 10px;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.35);
+      }
+      .detail-val {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 12.5px;
+        fill: rgba(255,255,255,0.75);
+      }
+      .link-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 10px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        fill: rgba(255,255,255,0.5);
+      }
+      .link-border { stroke: rgba(255,255,255,0.12); stroke-width: 1; fill: none; }
+      .divider { fill: rgba(255,255,255,0.06); }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="about-bg" width="900" height="105"/>
+  <rect class="about-border" x="0.5" y="0.5" width="899" height="104"/>
+
+  <!-- Section label -->
+  <text class="section-label" x="32" y="32">About</text>
+
+  <!-- Bio text -->
+  <text class="bio-text" x="32" y="65">Computer Science student and software developer passionate about building</text>
+  <text class="bio-text" x="32" y="87">practical solutions, solving problems, and turning ideas into meaningful digital experiences.</text>
+
+
+</svg>
