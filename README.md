@@ -22,18 +22,23 @@
 
 <br/>
 
+<!-- GitHub Stats -->
+
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&theme=transparent&title_color=fff&text_color=aaa&icon_color=2d8cf0" height="165" alt="GitHub Stats"/>&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&theme=transparent&title_color=fff&text_color=aaa" height="165" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mohanraj1232&show_icons=true&hide_border=true&theme=dark&bg_color=050607&title_color=ffffff&text_color=a0a0a0&icon_color=2D8CF0" height="165" alt="GitHub Stats"/> 
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohanraj1232&layout=compact&hide_border=true&theme=dark&bg_color=050607&title_color=ffffff&text_color=a0a0a0" height="165" alt="Top Languages"/>
 
 </div>
 
 <br/>
 
+<!-- Streak Stats -->
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=fff&sideLabels=aaa&currStreakNum=fff&sideNums=aaa&dates=666&stroke=333&background=0D1117" width="520" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=ffffff&sideLabels=a0a0a0&currStreakNum=ffffff&sideNums=a0a0a0&dates=666666&stroke=22262B&background=050607" width="520" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -42,6 +47,8 @@
 ---
 
 <br/>
+
+<!-- LeetCode -->
 
 <div align="center">
 
@@ -55,13 +62,17 @@
 
 <br/>
 
+<!-- Contribution Activity -->
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanraj1232&bg_color=050607&color=ffffff99&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanraj1232&bg_color=050607&color=ffffff&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 <br/>
+
+<!-- Contribution Snake -->
 
 <div align="center">
 
@@ -78,16 +89,29 @@
 
 <br/>
 
+<!-- Connect -->
+
 <div align="center">
 
 ### Let's Connect
 
 <br/>
 
-<a href="mailto:g.mohanrajgtmt@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://github.com/Mohanraj1232"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/mohanrajg07/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="https://leetcode.com/mohanraj-g"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="mailto:g.mohanrajgtmt@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>&nbsp;
+
+<a href="https://github.com/Mohanraj1232">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/mohanrajg07/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+
+<a href="https://leetcode.com/mohanraj-g">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
 <br/><br/>
 
