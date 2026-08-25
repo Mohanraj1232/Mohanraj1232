@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohanraj1232&bg_color=050607&color=ffffff&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://github-graph.mohanrajg.me/graph?username=Mohanraj1232&bg_color=050607&color=ffffff&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
