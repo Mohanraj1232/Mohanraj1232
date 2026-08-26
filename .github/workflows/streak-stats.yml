@@ -1,5 +1,9 @@
 name: Generate Streak Stats
 
+concurrency:
+  group: generate-streak-stats
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: "0 * * * *"
