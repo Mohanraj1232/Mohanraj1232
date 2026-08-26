@@ -1,0 +1,43 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: Mohanraj1232
+          output-file: streak-stats.svg
+          theme: dark
+          hide-border: true
+          background: "050607"
+          ring: "2D8CF0"
+          fire: "2D8CF0"
+          currStreakLabel: "ffffff"
+          sideLabels: "a0a0a0"
+          currStreakNum: "ffffff"
+          sideNums: "a0a0a0"
+          dates: "666666"
+          stroke: "22262B"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak-stats.svg
+          git diff --staged --quiet || git commit -m "chore: update streak stats" && git push

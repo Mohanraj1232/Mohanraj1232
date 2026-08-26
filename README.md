@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanraj1232&theme=dark&hide_border=true&ring=2D8CF0&fire=2D8CF0&currStreakLabel=ffffff&sideLabels=a0a0a0&currStreakNum=ffffff&sideNums=a0a0a0&dates=666666&stroke=22262B&background=050607" width="520" alt="GitHub Streak Stats"/>
+<img src="./streak-stats.svg" width="520" alt="GitHub Streak Stats"/>
 
 </div>
 
