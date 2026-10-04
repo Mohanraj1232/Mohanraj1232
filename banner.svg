@@ -90,33 +90,20 @@
   <!-- Divider line -->
   <rect class="divider" x="60" y="225" width="64" height="1" fill="rgba(255,255,255,0.4)"/>
 
-  <!-- Cycling role text with cursor -->
+  <!-- Typewriter role text with moving cursor -->
+  <defs>
+    <clipPath id="rc0"><rect x="70" y="244" width="0" height="26"><animate attributeName="width" values="0;230;230;0;0" keyTimes="0;0.15;0.3;0.3008;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="rc1"><rect x="70" y="244" width="0" height="26"><animate attributeName="width" values="0;0;290;290;0;0" keyTimes="0;0.3333;0.4833;0.6333;0.6342;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="rc2"><rect x="70" y="244" width="0" height="26"><animate attributeName="width" values="0;0;190;190;0;0" keyTimes="0;0.6667;0.8167;0.9667;0.9675;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
   <g opacity="0" style="animation: fadeIn 0.6s ease 0.8s forwards;">
-    <!-- Blinking cursor -->
-    <rect x="60" y="250" width="2" height="18" fill="rgba(45,140,240,0.7)">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.501;1" dur="1s" repeatCount="indefinite"/>
+    <rect x="70" y="247" width="2" height="18" fill="rgba(45,140,240,0.9)">
+      <animate attributeName="x" values="70;303;303;70;70;363;363;70;70;263;263;70;70" keyTimes="0;0.15;0.3;0.3008;0.3333;0.4833;0.6333;0.6342;0.6667;0.8167;0.9667;0.9675;1" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.501;1" dur="0.8s" repeatCount="indefinite"/>
     </rect>
-
-    <!-- Role 1 -->
-    <text class="typing-text" x="70" y="264">
-      <set attributeName="visibility" to="visible" begin="0s;h3.end" dur="4s" fill="freeze"/>
-      <set id="h1" attributeName="visibility" to="hidden" begin="0s+4s;h3.end+4s" fill="freeze"/>
-      Full Stack Developer
-    </text>
-
-    <!-- Role 2 -->
-    <text class="typing-text" x="70" y="264" visibility="hidden">
-      <set id="s2" attributeName="visibility" to="visible" begin="h1.end" dur="4s" fill="freeze"/>
-      <set id="h2" attributeName="visibility" to="hidden" begin="s2.end" fill="freeze"/>
-      Always Learning New Tech
-    </text>
-
-    <!-- Role 3 -->
-    <text class="typing-text" x="70" y="264" visibility="hidden">
-      <set id="s3" attributeName="visibility" to="visible" begin="h2.end" dur="4s" fill="freeze"/>
-      <set id="h3" attributeName="visibility" to="hidden" begin="s3.end" fill="freeze"/>
-      Building Clean &amp; Efficient Apps
-    </text>
+    <text class="typing-text" x="70" y="264" clip-path="url(#rc0)">Flutter &amp; Android Developer</text>
+    <text class="typing-text" x="70" y="264" clip-path="url(#rc1)">Associate Software Engineer Intern</text>
+    <text class="typing-text" x="70" y="264" clip-path="url(#rc2)">Competitive Programmer</text>
   </g>
 
   <!-- Portrait with frame -->

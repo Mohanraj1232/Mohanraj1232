@@ -18,6 +18,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="./experience.svg" width="100%" alt="Education & Experience"/>
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -66,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-graph.mohanrajg.me/graph?username=Mohanraj1232&bg_color=050607&color=ffffff&line=2D8CF0&point=ffffff&area=true&area_color=2D8CF0&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/Mohanraj1232/Mohanraj1232/output/contribution-graph.svg" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -97,21 +105,11 @@
 
 <br/>
 
-<a href="mailto:g.mohanrajgtmt@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-
-<a href="https://github.com/Mohanraj1232">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/mohanrajg07/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-
-<a href="https://leetcode.com/mohanraj-g">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
+<a href="mailto:g.mohanrajgtmt@gmail.com"><img src="./connect-email.svg" height="64" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Mohanraj1232"><img src="./connect-github.svg" height="64" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohanrajg07/"><img src="./connect-linkedin.svg" height="64" alt="LinkedIn"/></a>&nbsp;
+<a href="https://leetcode.com/mohanraj-g"><img src="./connect-leetcode.svg" height="64" alt="LeetCode"/></a>&nbsp;
+<a href="https://mohanrajg.me"><img src="./connect-portfolio.svg" height="64" alt="Portfolio"/></a>
 
 <br/><br/>
 

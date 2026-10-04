@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" fill="none">
+  <defs>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .label { font-size: 12px; font-weight: 600; letter-spacing: 3px; fill: #4A9EFF; }
+      .title { font-size: 26px; font-weight: 600; fill: #ffffff; }
+      .sub { font-size: 17px; fill: rgba(255,255,255,0.55); }
+    </style>
+  </defs>
+  <rect width="900" height="200" fill="#050607"/>
+
+  <text class="label" x="32" y="36">EDUCATION</text>
+  <text class="title" x="32" y="68">B.E. Computer Science</text>
+  <text class="sub" x="32" y="94">St. Joseph's Institute of Technology</text>
+
+  <text class="label" x="32" y="130">EXPERIENCE</text>
+  <text class="title" x="32" y="162">Associate Software Engineer Intern</text>
+  <text class="sub" x="32" y="186">ServiceNow | Jun - Jul 2026</text>
+</svg>

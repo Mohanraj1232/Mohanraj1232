@@ -74,7 +74,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
       <text x="155" y="354" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="-0.3">Mohanraj G</text>
 
       <!-- Title -->
-      <text x="155" y="374" text-anchor="middle" font-size="8.5" fill="rgba(255,255,255,0.5)" letter-spacing="2" font-weight="500">FULL STACK DEVELOPER</text>
+      <text x="155" y="374" text-anchor="middle" font-size="8.5" fill="rgba(255,255,255,0.5)" letter-spacing="2" font-weight="500">SOFTWARE DEVELOPER</text>
 
       <!-- Handle -->
       <text x="155" y="392" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.35)">@Mohanraj1232</text>
@@ -162,10 +162,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
 <!-- Tools -->
 <text x="340" y="380" font-size="9" letter-spacing="2.5" fill="rgba(255,255,255,0.3)" font-weight="500">TOOLS</text>
 <circle cx="345" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="354" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">Git</text>
-<circle cx="405" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="414" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">Docker</text>
-<circle cx="495" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="504" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">MongoDB</text>
-<circle cx="605" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="614" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">PostgreSQL</text>
-<circle cx="725" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="734" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">Firebase</text>
+<circle cx="405" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="414" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">MongoDB</text>
+<circle cx="515" cy="402" r="3" fill="rgba(45,140,240,0.5)"/><text x="524" y="406" font-size="11.5" letter-spacing="1" fill="rgba(255,255,255,0.7)">Firebase</text>
 
 <!-- Bottom separator -->
 <line x1="340" y1="430" x2="860" y2="430" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
