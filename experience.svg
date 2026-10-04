@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" fill="none">
+<defs><clipPath id="cardClip"><rect width="900" height="250" rx="18"/></clipPath></defs>
+<g clip-path="url(#cardClip)">
   <defs>
     <style>
       text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
@@ -16,4 +18,6 @@
   <text class="label" x="32" y="162">EXPERIENCE</text>
   <text class="title" x="32" y="198">Associate Software Engineer Intern</text>
   <text class="sub" x="32" y="226">ServiceNow | Jun - Jul 2026</text>
+</g>
+<rect x="0.5" y="0.5" width="899" height="249" rx="18" fill="none" stroke="rgba(255,255,255,0.1)"/>
 </svg>
